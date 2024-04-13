@@ -54,7 +54,7 @@
     justify-self: end;       
 }
 
-.header__text{
+.header__text {
     line-height: 25px;
     font-size: 18px;       
     font-style: normal;
@@ -90,6 +90,7 @@
 .aligned-text {
     z-index: 3;
 }
+
 .letter-spacing-extended {
     letter-spacing: 0.6em;
     z-index: 4;
@@ -116,7 +117,7 @@
     justify-content: space-between;
     align-items: center;
     padding-top: 125px;
-  }
+}
 
 .cover__description-text {
     text-transform: uppercase;
@@ -127,7 +128,7 @@
     line-height: 28px;
     text-align: center;
     padding-left: 28px;
-  }
+}
 
 .bet-button {
   padding: 12px 32px 11px 31px;
@@ -249,16 +250,16 @@
     justify-items: center;
     padding: 35px 22px 180px; 
     gap: 22px;
-  }
+}
   
-  .about__column_left {
+.about__column_left {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100%;
-  }
+}
 
-  .about__logo {
+.about__logo {
     display: flex; 
     justify-content: center;
     align-self: center;
@@ -268,19 +269,19 @@
     height: 240px;
 }
   
-  .about__logo-image {
+.about__logo-image {
     align-self: center;
     width: 148px;
     height: 114px;
 }
   
-  .about__column_right {
+.about__column_right {
     display: flex;
     flex-direction: column;
     width: 100%;
 }
   
-  .about__title {
+.about__title {
     display: flex;
     padding: 100px 0;
     text-transform: uppercase;
@@ -291,13 +292,13 @@
     line-height: 47px;
 }
   
-  .about__text-paragraph {
+.about__text-paragraph {
     display: flex;
     flex-direction: column;
     gap: 24px;
 }
 
-  .about__text {
+.about__text {
     display: block;
     font-family: Raleway, sans-serif;
     font-style: normal;
